@@ -1,0 +1,7 @@
+x=input()
+n=x.split()
+a=int(n[0])
+b=int(n[1])
+c=str(a)
+d=str(b)
+print(c+d)
