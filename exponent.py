@@ -1,0 +1,6 @@
+x=input()
+a=x.split()
+n=int(a[0])
+k=int(a[1])
+c=(n**k)
+print(c)
