@@ -1,0 +1,5 @@
+a,b=input().split()
+n=int(a)
+k=int(b)
+c=input().split()
+print(c[k-1])
