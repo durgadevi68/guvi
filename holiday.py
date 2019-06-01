@@ -1,7 +1,7 @@
 w=input(" ")
-if(w=='monday' or w=='tueday' or w=='wednesday' or w=='thruday' or w=='friday'):
+if(w=='Monday' or w=='Tuesday' or w=='Wednesday' or w=='Thrusday' or w=='Friday'):
     print("no")
-elif(w=='saturday' or w=='sunday'):
+elif(w=='Saturday' or w=='Sunday'):
     print("yes")
 else:
     print("invalid")
